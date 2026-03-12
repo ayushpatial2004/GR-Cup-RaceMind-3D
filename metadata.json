@@ -1,0 +1,5 @@
+{
+  "name": "RaceMind 3D",
+  "description": "A cognitive visualization and data-driven race intelligence system for GR Cup drivers, blending 3D track models with performance analytics and AI-powered coaching.",
+  "requestFramePermissions": []
+}
